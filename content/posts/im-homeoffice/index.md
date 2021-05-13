@@ -3,7 +3,9 @@ title = "Im Homeoffice"
 date = "2021-05-13"
 draft = false
 pinned = false
+image = "http://upload.wikimedia.org/wikipedia/commons/9/9d/22_West_-_home_office.jpg"
 description = "Schilderung einer erfundenen Situation im Homeoffice, im Rahmen einer Textproduktion für die Schule"
+footnotes = "Quelle des Bildes: http://upload.wikimedia.org/wikipedia/commons/9/9d/22*West*-_home_office.jpg"
 +++
 
 
