@@ -3,11 +3,12 @@ title = "Im Homeoffice"
 date = "2021-05-13"
 draft = true
 pinned = false
+image = "http://upload.wikimedia.org/wikipedia/commons/9/9d/22_West_-_home_office.jpg"
 description = "Schilderung einer erfundenen Situation im Homeoffice, im Rahmen einer Textproduktion für die Schule"
 +++
 
 
-**Im Home-Office**
+
 
 Gefühlt eine Ewigkeit schon, sitze ich hier auf meinem Stuhl über den Laptop gebeugt und auf meinen Bildschirm starrend. Ich bin dabei mein E-Mail-Postfach nach neuen Aufträgen zu durchstöbern, doch so wie es aussieht, herrscht im Geschäft tote Hose. Ich richte mich auf und schaue aus dem Fenster. Das Wetter ist grau und bewölkt, durch das geöffnete Fenster höre ich das Zwitschern von Vögeln und das Krächzen eines Raben. Alle 20 Minuten fahren mit ei-nem lauten Brummen der Motore Autos die Strasse entlang. Mein Blick gleitet vom Fenster zu-rück in das E-Mail- Postfach, denn der Signalton auf meinem Laptop kündigt eine neue E-Mail an. "Dokument bitte ablegen" steht da geschrieben. Ich öffne den Emailanhang, in dem sich das Dokument befindet und starte unsere interne Datenbank. Natürlich vergeht wieder eine halbe Ewigkeit, bis ich mich endlich in dem veralteten Programm einloggen kann. Im Pro-gramm eingeloggt, speichere ich das Dokument ab und schliesse das Programm im Wissen, dass ich die nächsten 20 Minuten aufs Neue wie ein krummer Baum auf meinem Stuhl sitzen werde und auf meinen Laptop starre, Anweisungen aus dem Geschäft abwartend.
 
