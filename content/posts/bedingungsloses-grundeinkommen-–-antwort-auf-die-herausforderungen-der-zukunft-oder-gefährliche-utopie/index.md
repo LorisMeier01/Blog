@@ -3,7 +3,8 @@ title = "Bedingungsloses Grundeinkommen – Antwort auf die Herausforderungen de
 date = "2021-10-22"
 draft = false
 pinned = false
-footnotes = "<https://www.economiesuisse.ch/sites/default/files/publications/dp05_Grundeinkommen_DE.pdf>\n\n \n\n<https://www.denknetz.ch/das-bedingunglose-grundeinkommen-ist-die-falsche-antwort-auf-die-probleme-des-21-jahrhunderts/>\n\n \n\n[Drohnen liefern in Zürich Päckli aus - TOP ONLINE](https://www.toponline.ch/news/zuerich/detail/news/drohnen-liefern-in-zuerich-paeckli-aus-0073461/)"
+image = "grundeinkommen-110__v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135-1-.jpg"
+footnotes = "<https://www.economiesuisse.ch/sites/default/files/publications/dp05_Grundeinkommen_DE.pdf>\n\n<https://www.denknetz.ch/das-bedingunglose-grundeinkommen-ist-die-falsche-antwort-auf-die-probleme-des-21-jahrhunderts/>\n\n[Drohnen liefern in Zürich Päckli aus - TOP ONLINE](https://www.toponline.ch/news/zuerich/detail/news/drohnen-liefern-in-zuerich-paeckli-aus-0073461/)\n\n\n\n[Bedingungsloses Grundeinkommen : Steffi und das geschenkte Geld | Leben | Themen | PULS (br.de)](https://www.br.de/puls/themen/leben/bedingungsloses-grundeinkommen-finnland-100.html)"
 +++
 **Jede in der Schweiz lebende Person soll ein Grundeinkommen von 2500 Franken erhalten. Pro Kind gibt es 600 Franken. Was spricht dafür? Was dagegen? Das bedingungslose Grundeinkommen für in der Schweiz lebende Personen ist immer wieder Gegenstand von politischen Debatten. Ist ein solches Einkommen sinnvoll, trägt es dazu bei, die Lebensqualität in unserem Land zu erhöhen, verkleinert es die Schere zwischen Arm und Reich oder bewirkt es das genaue Gegenteil?**
 
