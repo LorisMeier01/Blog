@@ -1,12 +1,10 @@
 +++
-title = "Bedingungsloses Grundeinkommen – Antwort auf die Herausforderungen der Zukunft oder gefährliche Utopie?"
+title = "Bedingungsloses Grundeinkommen – Antwort auf die Herausforderungen der Zukunft oder gefährliche Fantasterei?"
 date = "2021-10-22"
 draft = false
 pinned = false
 footnotes = "<https://www.economiesuisse.ch/sites/default/files/publications/dp05_Grundeinkommen_DE.pdf>\n\n \n\n<https://www.denknetz.ch/das-bedingunglose-grundeinkommen-ist-die-falsche-antwort-auf-die-probleme-des-21-jahrhunderts/>\n\n \n\n[Drohnen liefern in Zürich Päckli aus - TOP ONLINE](https://www.toponline.ch/news/zuerich/detail/news/drohnen-liefern-in-zuerich-paeckli-aus-0073461/)"
 +++
-
-
 **Jede in der Schweiz lebende Person soll ein Grundeinkommen von 2500 Franken erhalten. Pro Kind gibt es 600 Franken. Was spricht dafür? Was dagegen? Das bedingungslose Grundeinkommen für in der Schweiz lebende Personen ist immer wieder Gegenstand von politischen Debatten. Ist ein solches Einkommen sinnvoll, trägt es dazu bei, die Lebensqualität in unserem Land zu erhöhen, verkleinert es die Schere zwischen Arm und Reich oder bewirkt es das genaue Gegenteil?**
 
 Digitalisierung und Automatisierung werden den Arbeitsmarkt grundlegend verändern. Repetitive Jobs und körperliche Arbeit werden in der Zukunft ersetzt durch Maschinen und Roboter, sagen Prognosen vieler Ökonominnen und Ökonomen voraus. Statt Postmitarbeitern und Postmitarbeiterinnen könnten in Zukunft Drohnen die Post zu uns nach Hause bringen – was für uns gegenwärtig verrückt klingen mag, ist in der Zukunft vielleicht gängige Praxis, so wurde bereits die Tauglichkeit von Drohnen als Paketlieferanten getestet. Ein bedingungsloses Grundeinkommen würde die Menschen weniger abhängig vom Arbeitsmarkt machen und würde eine zunehmende Arbeitslosigkeit durch die Digitalisierung in der Zukunft auffangen. Der Verwaltungsaufwand, der unvermeidbar wäre, würden wir diesen Menschen einfach Arbeitslosengeld bezahlen, könnte dadurch verhindert werden. Bekämen diese Menschen Sozialhilfe, müsste der Verwaltungsapparat massiv aufgestockt werden, man müsste z. B. mehr Sozialhilfegesuche prüfen und es müsste bei einer viel grösseren Zahl an Sozialhilfeabhängigen laufend überprüft werden, ob die Sozialleistungen gerechtfertigt sind. Das könnte man durch ein solches Grundeinkommen als Alternative zum klassischen Arbeitslosengeld vermeiden. Als weiterer positiver Effekt würde die Diskriminierung dieser Menschen verhindert, denn es wären alle in der Schweiz lebende Personen gleichermassen vom bedingungslosen Grundeinkommen abhängig.
@@ -17,40 +15,18 @@ Ein weiterer positiver Effekt des bedingungslosen Grundeinkommens wäre die fina
 
 Was sicherlich auch für das bedingungslose Grundeinkommen spricht, ist die Förderung der Innovation und Risikobereitschaft. Wie viele Menschen träumen davon, ihr eigenes Unternehmen aufzubauen, verwirklichen diesen Traum aber nicht, da sie sich Gedanken um ihren Existenzbedarf machen müssen und entscheiden sich deshalb für eine Beschäftigung in einem sicheren Job, dank dem sie zwar keine Sorgen um ihre finanzielle Sicherheit haben, der sie aber nicht erfüllt? Hätten die Menschen bereits eine Summe von 2500 Franken zur Deckung des nötigen Lebensbedarfs zur Verfügung, der nicht mehr durch Lohnarbeit bestritten werden muss, könnten sie mehr auf ihre eigene Innovativität und die Entfaltung ihrer Talente setzen, könnten zum Beispiel ein Unternehmen gründen, ohne sich grosse Sorgen um Insolvenz oder Verschuldung zu machen, weil ihre und die Existenz ihrer Angestellten nicht mehr von den Einnahmen des Unternehmens abhängig wäre.
 
- 
-
 Das waren vier Argumente für ein solches Grundeinkommen. Doch was spricht dagegen?
-
- 
 
 Zuerst einmal, muss man sich der unangenehmen Frage stellen, ob ein Grundeinkommen wirklich gerecht wäre. Es ist einfach, auf die Lücken des gegenwärtigen Systems hinzuweisen, wenn man eine Alternative herbeiziehen kann, die einerseits schön klingt und andererseits in keiner Volkswirtschaft eingeführt wurde, weswegen die Schwächen dieses Vorschlags nicht spürbar und nur schwer absehbar sind. Wenn ein Unternehmer nicht mehr für die Existenzsicherung seiner Mitarbeitenden aufkommen muss, kann das im Umkehrschluss heissen, dass er massive Einsparungen bei den Löhnen vornehmen kann, zugunsten der Kapitalgeber und zu Lasten der Erwerbstätigen. Das würde dann die vermögende Klasse, die neben einem Grundeinkommen von 2500 Franken durch Investitionen auch noch höhere Gewinnanteile einnehmen kann, noch vermögender machen, zumal das Grundeinkommen durch die Mehrwertsteuer und durch die Einkommenssteuer finanziert werden soll, was vor allem den Mittelstand belasten würde. Eine Alternative wäre es, die Banken höher zu besteuern, doch die würden die Kosten eher auf die weniger gewinnbringenden Kunden abwälzen, was die vermögende Klasse im Vergleich zum Mittelstand auch besser dastehen lassen würde. Um das bedingungslose Grundeinkommen in der Schweiz einführen zu können, in den gegenwärtigen ökonomischen Verhältnissen, bedarf es gemäss Schätzungen einer Steigerung der Mehrwertsteuer auf satte 55 %. Die Einkommenssteuer müsste auf 45 % erhöht werden. Wir hätten vielleicht genau das Wirtschaftsmodell, das die Befürworter des Grundeinkommens verhindern wollen, eine Gesellschaft, in der die vermögende Klasse, die nebst ihrem Kapital auch noch ein Grundeinkommen von 2500 hat, ihr Vermögen durch Investitionen vervielfachen kann, auf Kosten des Mittelstandes.
 
 Zusätzlich zu den nicht absehbaren Folgen für den Mittelstand könnte ein bedingungsloses Grundeinkommen einen massiven Zuwachs der Schattenwirtschaft mit sich bringen. Auf wen würde der Unternehmer zurückgreifen, wenn sich immer mehr in der Schweiz registrierte Menschen der Arbeit als Putzkraft verweigern? Es würde die Leute anstellen, die zwar in der Schweiz leben, jedoch nicht gemeldet sind und somit gar kein Grundeinkommen beziehen könnten, nämlich die Sans Papiers. Mit einer Zunahme der Schattenwirtschaft in den Arbeitsbereichen, in denen es schon schwer genug ist, gerechte Arbeitsbedingungen durchzusetzen, müssten wir, würden wir ein bedingungsloses Grundeinkommen einführen, mit einer grossen Wahrscheinlichkeit rechnen.
 
- 
-
 Angenommen, das bedingungslose Grundeinkommen hat keine gravierenden Folgen auf die Arbeitnehmer und Arbeitnehmerinnen bliebe immer noch die Frage,
 
 welche Folgen es für Unternehmen und den Arbeitsmarkt haben könnte. Gemäss einer Schätzung der Economiesuisse von 2016 verdient rund ein Viertel der Voll- und Teilzeitangestellten weniger als 3'000 im Monat. Wie soll man diese Menschen dazu bewegen, im Arbeitsmarkt zu bleiben, wenn sie den ungefähren Betrag, den sie durch Erwerbsarbeit erhalten, ohnehin schon durch das Grundeinkommen ausbezahlt kriegen? Man kann mit dem Argument kommen, nun sei es an den Arbeitnehmenden, bessere Löhne auszuhandeln und an den Unternehmen es für die Arbeitnehmenden attraktiver zu machen, bei ihnen zu arbeiten. Doch was würde es im Umkehrschluss bedeuten, wenn Arbeitgeber in Branchen mit niedrigen Löhnen, diese massiv erhöhen müssten, um einen Abgang von Personal zu verhindern? Sie müssten zweifellos die Preise für ihre Dienstleistungen oder Waren, die in diesen Branchen meist niedrig sind, erhöhen, damit die hohen Löhne finanzierbar sind. Würden wir nicht mittlerweile in einer globalisierten Welt leben, ginge das noch, aber ich denke nicht, dass die Chinesen bereit wären, ihre ohnehin schon tiefen Preise denen von Schweizer Unternehmen anzupassen, wozu auch? Durch den Wegfall von Arbeitnehmern und Arbeitnehmerinnen dürfte sich die Finanzierung des Grundeinkommens erschweren, ist doch ein vielzitiertes Finanzierungsmittel die Einkommenssteuer.
-
- 
 
 Zuletzt will ich mit dem Argument der finanziellen Unabhängigkeit aufräumen, es wird ja gerne behauptet, das bedingungslose Grundeinkommen könnte gerade Frauen finanziell unabhängiger machen. Doch eine Berechnung der Economiesuisse widerlegt diese Annahme: Ein Mann und eine Frau, Eltern eines Kindes, verdienen mit ihrer Teilzeitbeschäftigung von je 50 % zusammen 7'000 Franken, das macht 3'500 inklusive Grundeinkommen pro Kopf. Schlägt man jetzt noch 600 Franken für das Kind dazu, kommt man auf 7'600. Würde der Mann jedoch die vollen 100 % arbeiten, das heisst, die 7'000 Franken inklusive Grundeinkommen allein erhalten, ergibt das, ergänzt um das Grundeinkommen der Frau von 2'500 und dem für das Kind von 600 ein Total von 10'100. Die Rechnung zeigt deutlich: Es lohnt sich, wenn die Frau zu Hause bleibt. Viele Menschen mögen mit diesem Lebensmodell zufrieden sein, jedoch gibt es auch vermehrt Leute, die sich für sich, ihren Ehepartner und ihre Kinder andere Konzepte wünschen und es nicht gerne sähen, wenn der Staat es profitabler machen würde, auf konservative Familienkonzepte zurückzugreifen.
 
 **Fazit**
 
 Zugegeben, ich halte das bedingungslose Grundeinkommen für eine schöne Utopie, doch es bleibt, was es ist – eine Utopie, zumindest in unserem globalen wirtschaftlichen Klima. Unsere Volkswirtschaft ist eng verknüpft mit anderen Volkswirtschaften, was unseren Wohlstand aufrechterhält, vorausgesetzt wir bleiben konkurrenzfähig, doch genau diese Konkurrenzfähigkeit wäre durch das bedingungslose Grundeinkommen gefährdet. Wir haben in unserem Land einen gut funktionierenden Sozialstaat, wozu diesen gegen ein Luftschloss eintauschen, welches es in der Art, wie es vorgeschlagen ist, noch in keinem anderen Land gab und eventuell gravierende Folgen sowohl für Arbeitnehmer und Arbeitnehmerinnen als auch für Unternehmen und unsere Wettbewerbsfähigkeit als Wirtschaftsstandort in Kauf nehmen? Mir fällt da keine passendere Antwort ein, als diesen Gedanken hinter uns zu lassen und stattdessen Altbewährtes, wie unseren Sozialstaat, auszubauen, um eine Antwort auf die Probleme der Zukunft zu finden, die das Grundeinkommen angeblich lösen soll.
-
- 
-
- 
-
- 
-
-
-
-
-
-
-
-<!--EndFragment-->
