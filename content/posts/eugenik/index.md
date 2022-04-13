@@ -7,29 +7,19 @@ image = "eugenik.jpg"
 description = "Eine textliche Auseinandersetzung mit dem pseudowissenschaftlichen Konzept \"Eugenik\"."
 footnotes = "https://eugenicsarchive.ca/database/documents/5233e53d5c2ec500000000e2\n\nhttps://www.grin.com/document/90807\n\nhttps://de.wikipedia.org/wiki/Cold_Spring_Harbor_Laboratory\n\nhttps://en.wikipedia.org/wiki/George_Eastman\n\nhttps://www.worldcat.org/title/eugenics-a-journal-of-race-betterment/oclc/564339369\n\nhttps://de.wikipedia.org/wiki/Charles_Davenport\n\nhttp://eugenicsarchive.ca/discover/tree/535eebfb7095aa0000000228#:~:text=Fitter%20family%20contests%20were%20a,fit%E2%80%9D%20to%20have%20larger%20families.\n\nhttps://en.wikipedia.org/wiki/Lothrop_Stoddard\n\nhttps://www.aerzteblatt.de/archiv/7893/Zwangssterilisationen-in-Skandinavien-Weitverbreitete-Ideologie-der-Eugenik#:~:text=So%20hat%20D%C3%A4nemark%20die%20Zwangssterilisation,%2C%20wieder%20durch%20Gesetz%2C%20beendet.\n\nhttps://de.wikipedia.org/wiki/Kinder-Euthanasie#:~:text=Kinder%2DEuthanasie%20ist%20eine%20verharmlosende,mindestens%205000%20Menschen%20zum%20Opfer.\n\nhttps://de.wikipedia.org/wiki/Aktion*T4#Beginn_und_Organisation_der*%E2%80%9EAktion_T4%E2%80%9C\n\nhttps://de.wikipedia.org/wiki/Aktion_14f13#Vorgeschichte\n\nhttps://www.youtube.com/watch?v=2zmByElakrg\n\nhttps://de.wikipedia.org/wiki/Kinder_der_Landstrasse\n\nhttps://www.projuventute.ch/sites/default/files/2020-12/Kinder_der_Landstrasse_Fragen_und_Antworten.pdf\n\n**Bildquelle:**\n\nhttps://www.dhm.de/fileadmin/medien/lemo/images/pli02843.jpg"
 +++
-
-
 **Eugenik**
 
 Das Wort "Eugenik" leitet sich aus dem griechischen "Eugenes" ab, das so viel heisst wie: "von edler Abstammung" oder "edel geboren. Die Eugenik ist in erster Linie der Überbegriff für verschiedene wissenschaftliche Praktiken, die darauf abzielen, das Erbgut der Menschen zu optimieren. Eugeniker unterscheiden zwischen "erwünschten Erbeigenschaften" dazu gehören zum Beispiel Intelligenz oder physische und psychische Gesundheit und "unerwünschten Erbeigenschaften" wie zum Beispiel kognitive Einschränkungen und Krankheiten physischer oder psychischer Natur. Ziel eines jeden Eugenikers ist es, in der Gesellschaft die Zahl an Menschen mit "erwünschten Erbeigenschaften" zu erhöhen (positive Eugenik) und die Zahl an Menschen mit "unerwünschten Erbeigenschaften" zu vermindern (negative Eugenik). Im vergangenen 20 Jahrhundert wurden in ganz Europa und in Nordamerika eugenische Massnahmen umgesetzt, die von zahlreichen Eingriffen in die körperliche Unversehrtheit der Bürger bis hin zu Massenmord reichen. Um die Geschichte der Eugenik, die dahinterstehende Ideologie und um eugenische Massnahmen wird es in dieser Abhandlung gehen.
-
- 
 
 **Ursprünge der Eugenik**
 
 In seinem Werk "The Descent of Men, erschienen 1871, legt der Evolutionsbiologe Charles Darwin das wissenschaftliche Fundament für die Eugenik, indem er zwischen einer in der Natur stattfindenden Verbreitung des Gesunden und Starken und einer in der Zivilisation stattfindenden Verbreitung des Kranken und Schwachen unterscheidet. Nach Darwin überlebten in der Natur schliesslich nur die Starken und Intelligenten, die in der Lage seien den Widrigkeiten zu trotzen, während sich in der Zivilisation auch Menschen mit körperlichen oder geistigen Einschränkungen verbreiten können. Darwin zog aus dieser Rechnung jedoch noch keine eugenischen Schlüsse, denn er war der Ansicht, dass auch angelernte positive Fähigkeiten vererbbar seien. Dies würde eine in der Zivilisation stattfindende Verbreitung von negativen Erbeigenschaften wieder ausgleichen.
 
- 
-
 Der britische Naturforscher und Schriftsteller Sir Francis Galton widersprach jedoch der Theorie seines Cousins Charles Darwin. Ihm zu Folge würden sich Eigenschaften, die Teil der genetischen Veranlagung eines Menschen sind, eher vererben als angelernte Fähigkeiten. Ausserdem würden sich Menschen, die er als "minderwertig" klassifizierte schneller Vermehren als die Menschen, die er als "hochwertig" betrachtete. Um die Natur als selektierenden Mechanismus, der alles Minderwertige aussortiert, zu ersetzen, brauche es künstliche vom Staat geschaffene Selektionsmechanismen, die eine Degeneration der Menschheit durch die Zivilisation zu verhindern würden. In seinem Werk "Inquiries into human faculty and its development", erschienen 1883, wurde der Begriff Eugenik das erste Mal von Francis Galton verwendet. Galton war jedoch ein Verfechter der positiven Eugenik, sein Hauptaugenmerk galt der Förderung der Verbreitung von Menschen deren Erbgut positive Eigenschaften aufwies und nicht der Verhinderung der Verbreitung von Menschen die er als minderwertig einstufte.
-
- 
 
 **Eugenik in den USA**
 
 Um Francis Galtons Begriff der "Eugenik" sammelte sich ab Ende des 19 Jahrhunderts eine regelrechte Bewegung, die das Ziel der Verhinderung einer Degeneration der Menschheit, verursacht durch die Abwesenheit eines Selektionsmechanismus in zivilisierten Gesellschaften, durchsetzen wollte. So bahnte sich die Eugenik ihren Weg aus den wissenschaftlichen Fakultäten hinein in die Parlamentskammern. Politiker von Progressiv bis Reaktionär sprachen sich für eugenische Massnahmen aus. Der erste Bundesstaat der USA, der überhaupt eugenische Massnahmen unter der Bevölkerung durchsetzte, war der Bundesstaat Connecticut. Dieser untersagte im Jahre 1896 per Gesetz Epileptikern, sogenannten "Schwachsinnigen" und "Geistesschwachen" zu heiraten. Im Jahre 1907 ging der US- Bundesstaat Indiana einen Schritt weiter: Er erliess ein Gesetz, das die Sterilisation "Geisteskranker" in Anstalten aber auch von Bewohnern von Armenhäusern und Gefängnisinsassen vorsah. Dem Beispiel von Indiana folgten insgesamt 32 US-Bundesstaaten. Durch den vom US-Bundesstaat Indiana erzeugten Dominoeffekt unter den Bundesstaaten wurden zwischen 1907 und 1981 insgesamt 60'000 Menschen zwangssterilisiert.
-
- 
 
 **Drahtzieher und Unterstützer der Eugeniker Bewegung in den USA**
 
@@ -44,8 +34,6 @@ Besorgte Davenport von der bereits erwähnten *Carnegie Institution of Washingto
 Für die Etablierung der Eugenik in den Vereinigten Staaten unverzichtbar war auch das bereits erwähnte *Eugenics Record Office* (ERO). Das ERO wurde 1910 auf dem Gelände des Experimentierinstitutes Cold Spring Harbor, New Jersey, von Davenport gegründet. Das ERO bildete die Umsetzung von Davenports Vision eines "Centers of research in human genetics and propaganda in eugenics". Für die Infrastruktur und den Unterhalt des ERO kam Mrs. Harrimann, die Witwe von E.H. Harrimann auf. Sie schenkte der Organisation insgesamt 546,832.82 US-Dollar. Davon wurden USD 245'832.82 bis und 1918 zur Verfügung gestellt. Die weiteren USD 300'000 wurden 1918 unter der Bedingung, dass die Kontrolle über das ERO nun dem *Carnegie Insitution of Washington* obliege, zur Verfügung gestellt. Schnell wurde das ERO zum wichtigsten Dreh- und Angelpunkt der Eugenik in den USA. So wurden in den 1924er Jahre Studenten zur sogenannten "Feldforschung" geschult, um in Psychiatrien, Armenhäusern oder Gefängnissen mittels von Davenport entworfenen Formularen Daten über die Insassen zu sammeln, die das ERO schliesslich auswertete und auslegte.
 
 Im Jahre 1911 wurde von J.H. Kellogg, dessen Vermächtnis man als Erfinder der Cornflakes in Gestalt seines Familiennamens auf den Kellogstüten noch heute bestaunen kann, die *Race Betterment Foundation* gegründet. J.H. Kellog war ein grosser Verfechter der Eugenik und Anhänger von rassischer Segregation, der in der Eugenik ein Mittel zur Bewahrung und zum Schutz der weissen Rasse vor einer drohenden Degeneration sah. Die *Race Betterment Foundation* sponserte insgesamt drei nationale Konferenzen über das Thema "Rassenverbesserung", die in den Jahren 1914, 1915 und 1928 gehalten worden sind. Dadurch leistete die *Race Betterment Foundation* einen wichtigen Beitrag zur Etablierung von eugenischen und rassistischen Ansichten in der amerikanischen Gesellschaft. In Zusammenarbeit mit dem ERO errichtete sie ein eigenes Eugenik-Register.
-
-
 
 Ein weiteres Projekt der *Race Betterment Foundation* war die sogenannte *Fitter Family Campaign*. Die *Fitter Family Campaign* war ein positiv eugenisches Programm. Es zielte nicht darauf ab, die Vermehrung von sogenannten "Minderwertigen" zu verhindern oder einzudämmen, sondern die Vermehrung von "Höherwertigen" gezielt zu fördern. Bei der Kampagne ging es darum, junge Erwachsene dazu zu veranlassen, ihren zukünftigen Lebenspartner nach eugenischen Massstäben auszuwählen.
 
@@ -122,45 +110,3 @@ Durch das Projekt "Kinder der Landstrasse" wurden Kinder aus der Obhut ihrer Elt
  **Meine Gedanken zum Thema Eugenik**
 
 Was als Hirngespinst einiger Evolutionstheoretiker begann, endete als Rechtfertigung für Eingriffe in die körperliche Unversehrtheit, wie die zahlreichen Sterilisationsgesetze in den USA, in Skandinavien oder in der Schweiz zeigen, in Freiheitsentzug und Auseinanderreissen von Familien, wie der Fall "Kinder der Landstrasse" zeigt und in Massenmord wie die "Kinder-Euthanasie", die" Aktion T4" und die "Aktion 14f13" zeigen. Die Eugenik steht sinnbildlich dafür, wie der positive und noble Ansatz menschliche Tugenden und Fähigkeiten wie Fleiss oder Moral zu fördern und zu belohnen, machtbesessenen Demagogen den Weg für Verbrechen ebnet. Auch erkennt man, wenn man sich mit ihrer Geschichte auseinandersetzt, wie Zeiten wirtschaftlicher und gesellschaftlicher Umbrüche und Irren, die Akzeptanz für totalitäre und verbrecherische Massnahmen seitens des Staates unter den Bürgern erhöhen. Wie sie im Bürger das Begehren erwecken, Teil einer Elite, bestehend aus dem von Mutter Natur mit überlegenen Eigenschaften gesegneten Teil der Bevölkerung zu sein, die das Recht hat, sich den Schwächeren und ihnen zur Last Fallenden zu entledigen. Auch wir befinden uns in Zeiten von Umbrüchen und Irren. Die Digitalisierung & Automatisierung und die Coronapandemie stellen unsere Gesellschaft vor Herausforderungen und auch sie rufen Verlierer und Gewinner hervor. Diejenigen, die auf der Intensivstation landen, weil sie sich einen gesunden Lebensstil nicht leisten können, einer Fehlindoktrination unterliegen oder an Vorerkrankungen leiden und Diejenigen, die vor einer Ansteckung/schweren Verläufen verschont bleiben. Diejenigen, deren Posten im Zuge der Digitalisierung/Automatisierung wegrationalisiert wird und Diejenigen, die aus ihr Profit schlagen können. Und wo ein gesellschaftlicher Wandel Verlierer zurücklässt, die auf staatliche Stütze und medizinische Versorgung angewiesen sind/angewiesen sein werden und Gewinner, die als Steuerzahler die Verlierer versorgen müssen, gedeihen eugenische Konzepte. Wird sich eugenisches Gedankengut, gegenwärtig noch verdammt, als überholt und verbrecherisch, vielleicht schon bald seinen Weg in die Gesellschaft zurückbahnen können und den einen, den von den negativen Folgen gesellschaftlicher Veränderungen verschont Gebliebenen, als einfache Lösung vorkommen, sich von der Last durch die Verlierer solcher Veränderungen ein für alle Mal zu befreien? Man weiss es nicht. Es bleibt nur zu hoffen, dass wir aus der Geschichte gelernt haben und die freiheitlichen und rechtsstaatlichen Grundsätze unserer Zivilisation ein Wiedererstarken von solchen verbrecherischen Konzepten verhindern.
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-<!--EndFragment-->
