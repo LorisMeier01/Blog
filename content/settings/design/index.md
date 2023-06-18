@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/media/logo.png"
+icon = ""
 logo = "/media/logo.png"
-image = "/media/wald.jpg"
+image = ""
 color = "#3432a8"
 +++
