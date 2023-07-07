@@ -14,7 +14,7 @@ Die Ukraine sieht den Ursprung ihrer nationalen Identität im sogenannten «Kiew
 
 Die Nationalstaatenbildung anfangs des 20. Jahrhunderts ging nicht spurlos am Territorium der heutigen Ukraine vorbei und so bildete sich auch auf dem Gebiet der zaristischen Ukraine eine Nationalbewegung.
 
-Der Sturz des russischen Zaren ebnete den ukrainischen Unabhängigkeitsbewegungen schliesslich den Weg. Am 17. März 1917 wurde in Kiew der «Ukrainische Zentralrat», genannt «Zentralna Rada», durch Vertreter von Wirtschafts-, Bildungs- und Kulturinstitutionen gegründet. Ziel war es ein politisches Entscheidungsorgan zu schaffen, welches aus dem Territorium «Ukraine» einen souveränen Staat innerhalb einer föderativen russischen Republik formen sollte. In ihrem ersten Erlass vom 23. Juni 1917, setzte der «Ukrainische Zentralrat» folgende Richtlinien fest:
+Der Sturz des russischen Zaren ebnete den ukrainischen Unabhängigkeitsbewegungen schliesslich den Weg. Am 17. März 1917 wurde in Kiew der «Ukrainische Zentralrat», genannt «Zentralna Rada», durch Vertreter von Wirtschafts-, Bildungs- und Kulturinstitutionen gegründet. Ziel war es ein politisches Entscheidungsorgan zu schaffen, welches aus dem Territorium «Ukraine» einen souveränen Staat innerhalb einer föderativen russischen Republik formen sollte. In seinem ersten Erlass vom 23. Juni 1917, setzte der «Ukrainische Zentralrat» folgende Richtlinien fest:
 
 * Die Ukraine soll autonomer Staat innerhalb eines demokratischen und föderativen Russlands sein
 * Die Grenzen der Ukraine wurden festgelegt
